@@ -45,6 +45,7 @@
         // ISSUE: #1 add @andreilg
         // GitHub Pull Requests and Issues
         "githubIssues.createIssueTriggers": ["ISSUE"],
+
         // Prettier
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "prettier.configPath": "configs/prettier/.prettierrc.yaml",
